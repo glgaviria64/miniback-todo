@@ -1,0 +1,25 @@
+{
+  "name": "miniback-todo",
+  "version": "1.0.0",
+  "description": "\u0016\"\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glgaviria64/miniback-todo.git"
+  },
+  "keywords": [
+    "\u0016[]"
+  ],
+  "author": "\u0016\"\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glgaviria64/miniback-todo/issues"
+  },
+  "homepage": "https://github.com/glgaviria64/miniback-todo#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
